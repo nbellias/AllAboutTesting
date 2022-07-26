@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AllAboutTesting.MathCalculations\AllAboutTesting.MathCalculations.csproj" />
+    <ProjectReference Include="..\AllAboutTesting.MyClassLibrary\AllAboutTesting.MyClassLibrary.csproj" />
   </ItemGroup>
 
 </Project>
